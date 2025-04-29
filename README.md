@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Firyan
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ..
+- 👀 I’m passionate about data-driven research and building smart, web-based solutions.
+<!--- 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ..
 - 😄 Pronouns: ...
