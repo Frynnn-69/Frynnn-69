@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Firyan
+- 👋 Hi there!, I’m Firyan
 - 👀 I’m passionate about data-driven research and building smart, web-based solutions.
 <!--- 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ..
