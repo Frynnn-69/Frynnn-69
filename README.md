@@ -3,16 +3,16 @@
 </p>
 
 
-<h1 align="center">Hi, I'm Firyan 👋</h1>
+<h1 align="center">Hi, There👋</h1>
 
 <p align="center">
   Passionate about <strong>modern web development</strong> and <strong>data-driven research</strong>.<br/>
   Building with React, Next.js, Laravel — Exploring Python, R, and ML tools.
 </p>
 
-## 👋 Hi there!
+## 👋 I'm Firyan!
 
-I'm Firyan, a computer student passionate about **modern web development** and **data-driven research**.  
+I'm computer student passionate about **modern web development** and **data-driven research**.  
 I focus on building with **React, Next.js, and Laravel**, while exploring **Python, R, and ML tools** for real-world applications and future research opportunities.
 
 ---
@@ -30,6 +30,14 @@ I focus on building with **React, Next.js, and Laravel**, while exploring **Pyth
 
 **🧪 Also Familiar With**  
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=fff) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=fff) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+
+**🛠 Tools & Platforms**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
