@@ -23,13 +23,16 @@ I focus on building with **React, Next.js, and Laravel**, while exploring **Pyth
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 
 **🌐 Web Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs&logoColor=fff) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs&logoColor=fff) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
 **📊 Data & Machine Learning**  
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=fff) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=fff) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=fff)
 
 **🧪 Also Familiar With**  
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=fff) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=fff) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+
+**🗄️ Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 
 **🛠 Tools & Platforms**  
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
