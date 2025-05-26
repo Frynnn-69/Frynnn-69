@@ -3,20 +3,20 @@
 </p>
 
 
-<h1 align="center">Hi, There👋</h1>
+<h1 align="center">Hi, there!👋</h1>
 
 <p align="center">
   Passionate about <strong>modern web development</strong> and <strong>data-driven research</strong>.<br/>
   Building with React, Next.js, Laravel — Exploring Python, R, and ML tools.
 </p>
 
-## 👋 I'm Firyan!
+<!--## 👋 I'm Firyan!
 
 I'm computer student passionate about **modern web development** and **data-driven research**.  
 I focus on building with **React, Next.js, and Laravel**, while exploring **Python, R, and ML tools** for real-world applications and future research opportunities.
 
 ---
-
+-->
 ## 🔧 Tech Stack
 
 **🗣️ Main Languages**  
@@ -47,6 +47,7 @@ I focus on building with **React, Next.js, and Laravel**, while exploring **Pyth
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
+<!--
 ---
 
 ## 📌 Interests
@@ -54,7 +55,7 @@ I focus on building with **React, Next.js, and Laravel**, while exploring **Pyth
 - Fullstack web development with clean & scalable tools  
 - Machine learning, data storytelling, and open research  
 - Tech for real-world impact & lifelong learning
-
+-->
 ---
 
 ## 📫 Let's Connect
