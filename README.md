@@ -55,14 +55,14 @@ I focus on building with **React, Next.js, and Laravel**, while exploring **Pyth
 - Fullstack web development with clean & scalable tools  
 - Machine learning, data storytelling, and open research  
 - Tech for real-world impact & lifelong learning
--->
+
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firyan-fatih-fadilah)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:firyanfatihh@gmail.com)
-
+-->
 
 <!---- 👋 Hi there!, I’m Firyan
 - 👀 I’m passionate about data-driven research and building smart, web-based solutions.
