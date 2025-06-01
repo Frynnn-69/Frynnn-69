@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/xjhfDScc/my-notion-face-transparent.png" width="200" alt="My Avatar" />
+  <img src="https://i.postimg.cc/zBHBP3Mg/avatartion.png" width="200" alt="My Avatar" />
 </p>
 
 
