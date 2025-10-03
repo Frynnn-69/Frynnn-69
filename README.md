@@ -5,8 +5,8 @@
 <h1 align="center">Hi, I'm Firyan 👋</h1>
 
 <p align="center">
-  A developer specializing in <strong>modern web applications</strong> and <strong>data-driven research</strong>.<br/>
-  Building with React, Next & Laravel, while exploring Python & R to turn data into insights.
+  A student passionate about <strong>modern web applications</strong> and <strong>data-driven research</strong>.<br/>
+  Currently building with React, Next & Laravel, while exploring Python & R to turn data into insights.
 </p>
 
 <p align="center">
