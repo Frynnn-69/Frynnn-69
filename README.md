@@ -6,7 +6,7 @@
 
 <p align="center">
   A developer specializing in <strong>modern web applications</strong> and <strong>data-driven research</strong>.<br/>
-  I build with React, Next.js, & Laravel and leverage Python & R to turn data into insights.
+  Building with React, Next & Laravel, while exploring Python & R to turn data into insights.
 </p>
 
 <p align="center">
