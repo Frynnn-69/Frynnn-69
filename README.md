@@ -5,18 +5,18 @@
 <h1 align="center">Hi, I'm Firyan 👋</h1>
 
 <p align="center">
-  A student passionate about <strong>modern web development</strong> and <strong>data-driven research</strong>.<br/>
-  Building with React, Next.js, and Laravel, while exploring Python & R for data insights.
+  A developer specializing in <strong>modern web applications</strong> and <strong>data-driven research</strong>.<br/>
+  I build with React, Next.js, & Laravel and leverage Python & R to turn data into insights.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/firyan-fatih-fadilah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:firyanfatihf01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -25,11 +25,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,php,laravel,tailwind,prisma,sqlite" />
-    <!-- sql,postgres,mongodb,colab,vercel -->
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,php,laravel,tailwind,prisma,sqlite" width="490px" />
     <br>
-    <img src="https://skillicons.dev/icons?i=python,r,sklearn,opencv,pytorch,flask,fastapi,mysql,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,r,sklearn,opencv,pytorch,flask,fastapi,mysql,anaconda" width="410px" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,netlify,gcp" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,netlify,gcp" width="270px" />
   </a>
 </p>
