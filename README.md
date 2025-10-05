@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,php,laravel,tailwind,prisma,sqlite" width="490px" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,php,laravel,tailwind,prisma,astro" width="490px" />
     <br>
     <img src="https://skillicons.dev/icons?i=python,r,sklearn,opencv,pytorch,flask,fastapi,mysql,anaconda" width="410px" />
     <br>
