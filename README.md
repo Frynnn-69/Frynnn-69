@@ -5,9 +5,6 @@
 <h3 align="center">Hi there, I'm Firyan 👋</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/firyan-fatih-fadilah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="http://heyfiryan.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
@@ -17,6 +14,9 @@
   A student passionate about <strong>modern web applications</strong> and <strong>data-driven research</strong>.<br/>
   Currently building with React, Next & Laravel, while exploring Python & R to turn data into insights.
 </p>
+<a href="https://www.linkedin.com/in/firyan-fatih-fadilah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 -->
 
 
